@@ -1,0 +1,7 @@
+C:\Users\ivanm\source\repos\Test 08032021 CSV\Test 08032021 CSV\bin\Debug\Test 08032021 CSV.exe.config
+C:\Users\ivanm\source\repos\Test 08032021 CSV\Test 08032021 CSV\bin\Debug\Test 08032021 CSV.exe
+C:\Users\ivanm\source\repos\Test 08032021 CSV\Test 08032021 CSV\bin\Debug\Test 08032021 CSV.pdb
+C:\Users\ivanm\source\repos\Test 08032021 CSV\Test 08032021 CSV\obj\Debug\Test 08032021 CSV.csprojAssemblyReference.cache
+C:\Users\ivanm\source\repos\Test 08032021 CSV\Test 08032021 CSV\obj\Debug\Test 08032021 CSV.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Test 08032021 CSV\Test 08032021 CSV\obj\Debug\Test 08032021 CSV.exe
+C:\Users\ivanm\source\repos\Test 08032021 CSV\Test 08032021 CSV\obj\Debug\Test 08032021 CSV.pdb
